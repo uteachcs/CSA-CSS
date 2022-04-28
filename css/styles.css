@@ -1676,7 +1676,7 @@ pre code strong {
   height: 20px;
   cursor: pointer;
   opacity: 0.5;
-  display: none;
+  /* display: none; */
 }
 
 .btn-clipboard:hover {
